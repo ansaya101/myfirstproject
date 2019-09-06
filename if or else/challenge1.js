@@ -1,6 +1,7 @@
-let password = "123456789";
-if (password.length < 8) {
-    console.log ("password too short" )
+let password = "123478";
+if (password.length == 8){
+    console.log ("password has been successfully created" )
 }
-else 
-console.log("password succsessfull") ;
+else if (password.length != 8){
+    console.log ("password is insufficent")
+}

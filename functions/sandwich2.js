@@ -6,4 +6,4 @@ const takeOrder = (topping, topping2) => {
 }
 takeOrder("ham", "pinapple");
 takeOrder("ham", "pinapple");
-takeOrder ("ham", "cheese")
+takeOrder("ham", "cheese")
